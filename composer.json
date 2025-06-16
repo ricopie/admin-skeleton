@@ -1,0 +1,22 @@
+{
+  "name": "ricopie/admin-skeleton",
+  "description": "Skeleton admin panel with laravel-modules",
+  "keywords": [
+    "ricopie", "laravel-modoules", "admin-panel"
+  ],
+  "require": {
+    "php": ">=8.2",
+  },
+    "require-dev": {
+        "phpunit/phpunit": "^11.5.3|^12.0.",
+        "mockery/mockery": "^1.6",
+        "orchestra/testbench": "^v10.0",
+        "friendsofphp/php-cs-fixer": "^v3.52",
+        "laravel/framework": "^v12.0",
+        "laravel/pint": "^1.16",
+        "spatie/phpunit-snapshot-assertions": "^5.0",
+        "phpstan/phpstan": "^2.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
