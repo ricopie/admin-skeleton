@@ -5,7 +5,7 @@
     "ricopie", "laravel-modoules", "admin-panel"
   ],
   "require": {
-    "php": ">=8.2",
+    "php": ">=8.2"
   },
     "require-dev": {
         "phpunit/phpunit": "^11.5.3|^12.0.",
